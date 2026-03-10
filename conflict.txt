@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 different
 =======
 same
 >>>>>>> feature/conflict
+=======
+same
+>>>>>>> release/v1.0.0
